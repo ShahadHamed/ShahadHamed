@@ -20,7 +20,7 @@ I'm a fresh graduate passionate about technology and software development. I rec
 ## :books: What I'm Currently Learning
 - [Technology/Framework you're learning]
 - [Another skill you're developing]
-- [Course or certification you're pursuing]
+- [Course or certification you're pursuing] 
 ## :telescope: Projects
   Gradution project: Brain Tumor Detection usnig a Machine learning approach
 ## :mailbox: How to Reach Me
