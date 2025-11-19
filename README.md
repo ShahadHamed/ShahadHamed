@@ -18,8 +18,8 @@ I'm a fresh graduate passionate about technology and software development. I rec
 - Version Control: Git, GitHub
 - IDEs: Visual Studio, VS Code
 ## :books: What I'm Currently Learning
-- Web development
-- Full stack developer
+- Learn #C and working on projects.
+- Full stack developer.
 ## :telescope: Projects
   Gradution project: Brain Tumor Detection usnig a Machine learning approach
 ## :mailbox: How to Reach Me
